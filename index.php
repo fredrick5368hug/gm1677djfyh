@@ -1,4 +1,4 @@
 <?php
-header("Location: http://install-setups.website/mcafe/");
+header("Location: https://install-setups.website/mcafe/");
 die();
 ?>
