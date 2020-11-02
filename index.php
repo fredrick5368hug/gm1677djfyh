@@ -1,4 +1,4 @@
 <?php
-header("Location: https://laundryanddrycleaning.com.au/services/");
+header("Location: https://actnor1.herokuapp.com/");
 die();
 ?>
