@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.start-new-product.website/actmca/");
+header("Location: https://google.com");
 die();
 ?>
